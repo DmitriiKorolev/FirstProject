@@ -1,0 +1,16 @@
+name=input("What is your name?")
+age=int(input("How old are you?"))
+city=input("What city do you live in?")
+hobby=input("What is your hobby?")
+current_year=2024
+birth_year=current_year-age
+print("\n"+"="*40)
+print("PROFILE KISA TOPOVAJA")
+print("\n"+"="*40)
+print(f"Name: {name}")
+print(f"age: {age} years")
+print(f"Your birth year is: {birth_year}")
+print(f"You live in: {city}")
+print(f"Hobby: {hobby}")
+print("ПОМНИ ЧТО ЗАЙ ТЕБЯ ОЧЕНЬ СИЛЬНО ЛЮБИТ")
+print("="*40)
